@@ -35,3 +35,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Adding my custom plugins
 gem 'jemoji'
+gem "github-pages", group: :jekyll_plugins # to preview you site locally 
