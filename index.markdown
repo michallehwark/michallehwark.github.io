@@ -11,7 +11,7 @@ This is a brief description of my projects.
 
 ## Table of Contents
 
-- [Section 1](#section_1)
+- [Exploration fo the dataset](#section_1)
 - [Section 2](#section_2)
 
 ## Section 1 {#section_1}
