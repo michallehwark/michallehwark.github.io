@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page1
 title: Page 1
 ---
 

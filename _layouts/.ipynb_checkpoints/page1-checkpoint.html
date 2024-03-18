@@ -1,26 +1,15 @@
----
-layout: default
-title: Page 1
----
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ site.github.url }}/assets/css/style.css">
-    <!-- You might need to adjust the path to the CSS file -->
+    <title>{{ page1.title }}</title>
 </head>
 <body>
     <header>
-        <h1>{{ page.title }}</h1>
+        <h1>{{ page1.title }}</h1>
     </header>
     <main>
-        <div class="container">
-            <h2>Welcome to Page 1</h2>
-            <p>This is the content of Page 1.</p>
-        </div>
+        {{ content }}
     </main>
     <footer>
         &copy; {{ site.author }}
