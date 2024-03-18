@@ -4,4 +4,4 @@
 
 layout: default
 ---
-![Alt Text]("C:\Users\micha\OneDrive\Pulpit\DTU\S4\michallehwark.github.io\_graphics\exe1.png")
+![Example graphics]("_graphics/exe1.png")
