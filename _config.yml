@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Michal Lehwark :wave:
+title: Michal Lehwark!
 # email: michal_email@example.com
 description: Explore Michal's projects
 # baseurl: "" # the subpath of your site, e.g. /blog
