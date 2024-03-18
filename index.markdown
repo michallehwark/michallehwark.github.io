@@ -1,5 +1,5 @@
 ---
-layout: default_clean
+layout: default
 title: Welcome
 ---
 
