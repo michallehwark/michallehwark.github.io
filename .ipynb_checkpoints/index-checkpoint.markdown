@@ -4,4 +4,4 @@
 
 layout: default
 ---
-![Example graphics]("_graphics/exe1.png")
+![Example graphics]("https://github.com/michallehwark/michallehwark.github.io/blob/main/_graphics/exe1.png")
