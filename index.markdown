@@ -7,5 +7,5 @@ title: Welcome
 
 This is a brief description of my project.
 
-[Page 1](page1.html) | [Page 2](page2.html)
+[Page 1](page1.md) | [Page 2](page2.html)
 
