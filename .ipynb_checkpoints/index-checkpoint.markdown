@@ -15,6 +15,7 @@ This is a brief description of my projects.
 - [Section 2](#section_2)
 
 ## Section 1 {#section_1}
+![Example Image](exe1_c.png)
 This is the content of Section 1.
 This is the content of Section 1.
 This is the content of Section 1.
