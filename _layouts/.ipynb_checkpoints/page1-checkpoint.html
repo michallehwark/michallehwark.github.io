@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_clean
 title: Page 1
 ---
 
