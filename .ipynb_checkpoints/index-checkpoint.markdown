@@ -1,7 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
+title: Welcome
 ---
-![Example static png](https://github.com/michallehwark/michallehwark.github.io/blob/main/_graphics/exe1.png)
+
+# Welcome to My Project
+
+This is a brief description of my project.
+
+[Page 1](page1.html) | [Page 2](page2.html)
+
